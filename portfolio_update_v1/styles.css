@@ -77,6 +77,8 @@ header .profile-image:hover {
   transform: scale(1.2) rotate(5deg);
 }
 .exp-image{
+  margin-top: 20px;
+  margin-bottom: -25px;
   height: 50px;
   width: 50px;
 }
