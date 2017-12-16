@@ -76,6 +76,10 @@ header .profile-image {
 header .profile-image:hover {
   transform: scale(1.2) rotate(5deg);
 }
+.exp-image{
+  height: 50px;
+  width: 50px;
+}
 .tag {
   background-color: #efefef;
   color: black;
